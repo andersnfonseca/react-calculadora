@@ -4,7 +4,7 @@
 }
 
 * {
-  font-family: 'RoboMono', monospace;
+  font-family: 'RobotoMono', monospace;
 }
 
 body {
@@ -14,5 +14,6 @@ body {
   align-items: center;
   text-align: center;
   color: #fff;
-  background: linear-gradient(to right, rgb(49, 71, 85), rgb(38, 160, 218));
+  background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D);
+
 }
